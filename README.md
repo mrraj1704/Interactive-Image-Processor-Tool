@@ -5,6 +5,8 @@ A fully interactive Python-based CLI tool for real-time image manipulation using
 The Interactive-Image-Processor-Tool is an intuitive and flexible command-line utility that allows users to apply various image transformations interactively. Whether you're resizing, rotating, flipping, converting modes, adjusting visual properties, or applying artistic filters—this tool puts pixel-level control at your fingertips!
 
 🚀 Features
+
+
 📐 Resize images to custom dimensions
 
 🔄 Rotate or flip horizontally/vertically
