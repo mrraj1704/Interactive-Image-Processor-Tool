@@ -17,7 +17,10 @@ The Interactive-Image-Processor-Tool is an intuitive and flexible command-line u
 
 📂 Automatically saves output in format-based folders
 
-🧰 Tech Stack
-Tool	Usage
-🐍 Python	Core programming language
-🖼 Pillow (PIL)	Image processing library
+
+| Tool               | Usage                     |
+| ------------------ | ------------------------- |
+| 🐍 Python          | Core programming language |
+| 🖼 Pillow (PIL)    | Image processing library  |
+| 🧠 CLI Interaction | Text-based user interface |
+
